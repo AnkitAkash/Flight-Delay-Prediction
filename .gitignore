@@ -1,7 +1,6 @@
-# System files
+.env
+__pycache__/
+*.pyc
+.env.*
+!.env.example
 .DS_Store
-Thumbs.db
-
-# IDE configuration files
-.vscode/
-.idea/
